@@ -1,2 +1,2 @@
-# fudan_course_note
+# fudan_course_notes
 Course notes from Fudan University
